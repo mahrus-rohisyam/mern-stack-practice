@@ -1,0 +1,3 @@
+[submodule "mongo-node-typescript-todo-app"]
+	path = mongo-node-typescript-todo-app
+	url = https://github.com/mahrus-rohisyam/mongo-node-typescript-todo-app.git

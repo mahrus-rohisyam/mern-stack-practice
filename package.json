@@ -1,0 +1,31 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Todo app with React TypeScript and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "client-start": "cd ./client && npm run start",
+    "client-build": "cd ./client && npm run build",
+    "client-test": "cd ./client && npm run jest",
+    "server-dev": "cd ./server && npm run dev",
+    "server-start": "cd ./server && npm run start",
+    "server-test": "cd ./server && npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahrus-rohisyam/todo-app-ts.git"
+  },
+  "keywords": [
+    "react",
+    "jest",
+    "mongo",
+    "mern",
+    "todo"
+  ],
+  "author": "Mahrus Sayid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahrus-rohisyam/todo-app-ts/issues"
+  },
+  "homepage": "https://github.com/mahrus-rohisyam/todo-app-ts#readme"
+}
